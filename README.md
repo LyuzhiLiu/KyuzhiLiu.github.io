@@ -6,7 +6,7 @@ This is my home page! My name is Lyuzhi Liu, and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is [http://github.com/yourusername](http://github.com/yourusername).
+My GitHub page is [http://github.com/yourusername](KyuzhiLiu.github.io).
 
 ### CPSC 120
 
