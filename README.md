@@ -6,7 +6,7 @@ This is my home page! My name is Lyuzhi Liu, and I am a student at [Cal State Fu
 
 ## Computer Science Projects
 
-My GitHub page is [LyuzhiLiu.github.io]([https://github.com/LyuzhiLiu/KyuzhiLiu.github.io/blob/main/README.md](https://github.com/LyuzhiLiu/LyuzhiLiu.github.io))
+My GitHub page is [LyuzhiLiu.github.io](https://github.com/LyuzhiLiu/LyuzhiLiu.github.io.)
 
 ### CPSC 120
 
